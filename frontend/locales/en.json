@@ -1,0 +1,21 @@
+{
+  "title": "Energy Consumption Calculator",
+  "subtitle": "Estimate your energy use and costs",
+  "power_label": "Power (W)",
+  "hours_per_day_label": "Hours per day",
+  "days_per_month_label": "Days per month",
+  "months_per_year_label": "Months per year",
+  "cost_per_kwh_label": "Cost per kWh (€)",
+  "calculate_button": "Calculate",
+  "reset_button": "Reset",
+  "monthly_consumption": "Monthly consumption (kWh)",
+  "annual_consumption": "Annual consumption (kWh)",
+  "monthly_cost": "Monthly cost (€)",
+  "annual_cost": "Annual cost (€)",
+  "language": "Language",
+  "theme": "Theme",
+  "dark": "Dark",
+  "light": "Light",
+  "simulation_heading": "Simulation inputs",
+  "results_heading": "Results"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Calcolatore del Consumo Energetico",
+  "subtitle": "Stima il tuo consumo energetico e i costi",
+  "power_label": "Potenza (W)",
+  "hours_per_day_label": "Ore al giorno",
+  "days_per_month_label": "Giorni al mese",
+  "months_per_year_label": "Mesi all'anno",
+  "cost_per_kwh_label": "Costo per kWh (€)",
+  "calculate_button": "Calcola",
+  "reset_button": "Resetta",
+  "monthly_consumption": "Consumo mensile (kWh)",
+  "annual_consumption": "Consumo annuale (kWh)",
+  "monthly_cost": "Costo mensile (€)",
+  "annual_cost": "Costo annuale (€)",
+  "language": "Lingua",
+  "theme": "Tema",
+  "dark": "Scuro",
+  "light": "Chiaro",
+  "simulation_heading": "Input per la simulazione",
+  "results_heading": "Risultati"
+}

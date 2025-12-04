@@ -1,0 +1,21 @@
+{
+  "title": "حاسبة استهلاك الطاقة",
+  "subtitle": "قدّر استخدامك للطاقة والتكاليف",
+  "power_label": "القدرة (وات)",
+  "hours_per_day_label": "ساعات في اليوم",
+  "days_per_month_label": "أيام في الشهر",
+  "months_per_year_label": "أشهر في السنة",
+  "cost_per_kwh_label": "تكلفة لكل كيلوواط ساعة (€)",
+  "calculate_button": "احسب",
+  "reset_button": "إعادة تعيين",
+  "monthly_consumption": "الاستهلاك الشهري (كيلوواط ساعة)",
+  "annual_consumption": "الاستهلاك السنوي (كيلوواط ساعة)",
+  "monthly_cost": "التكلفة الشهرية (€)",
+  "annual_cost": "التكلفة السنوية (€)",
+  "language": "اللغة",
+  "theme": "الوضع",
+  "dark": "داكن",
+  "light": "فاتح",
+  "simulation_heading": "مدخلات المحاكاة",
+  "results_heading": "النتائج"
+}
